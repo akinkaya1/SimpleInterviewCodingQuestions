@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eaec1e14-15e1-4f8d-ae92-7d44e609f50c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPrograms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MaxMinValuesInIntegerArray_UsingLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MaxMinValuesInIntegerArray_UsingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Palindrome_Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Palindrome_String_UsingLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Palindrome_String_UsingReversedMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ReverseString_UsingLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ReverseString_UsingStringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ReverseWords_InASentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SumOfAllNumbersInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Factorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/FibonacciSeries.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/JavaPrograms.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MaxMinValuesInIntegerArray_UsingLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/MaxMinValuesInIntegerArray_UsingSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Palindrome_Integer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Palindrome_String_UsingLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Palindrome_String_UsingReversedMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/PascalTriangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/PrimeNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ReverseString_UsingLoop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ReverseString_UsingStringBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ReverseWords_InASentence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/SumOfAllNumbersInAString.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YSPvTTo7mmQ2O7JuzeZ4jN0TWl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PascalTriangle">
+    <configuration name="MaxMinValuesInIntegerArray_UsingLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxMinValuesInIntegerArray_UsingLoop" />
+      <module name="JavaPrograms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxMinValuesInIntegerArray_UsingSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxMinValuesInIntegerArray_UsingSort" />
+      <module name="JavaPrograms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindrome_String_UsingLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Palindrome_String_UsingLoop" />
+      <module name="JavaPrograms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PascalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PascalTriangle" />
+      <module name="JavaPrograms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfAllNumbersInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfAllNumbersInAString" />
+      <module name="JavaPrograms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PascalTriangle" />
+        <item itemvalue="Application.MaxMinValuesInIntegerArray_UsingLoop" />
+        <item itemvalue="Application.MaxMinValuesInIntegerArray_UsingSort" />
+        <item itemvalue="Application.SumOfAllNumbersInAString" />
+        <item itemvalue="Application.Palindrome_String_UsingLoop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eaec1e14-15e1-4f8d-ae92-7d44e609f50c" name="Default Changelist" comment="" />
+      <created>1582933252974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582933252974</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="353" y="38" key="CommitChangelistDialog2" timestamp="1583288798965">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="353" y="38" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1583288798965" />
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1583257831263">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1583257831263" />
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1583115260906" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1583257831263">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1583257831263" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1583115260905" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1583257831262">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1583257831262" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1583115260905" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1583257831263">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1583257831263" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1583115260906" />
+    <state x="399" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1582933256564">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="399" y="268" key="com.intellij.ide.util.TipDialog/0.23.1440.825@0.23.1440.825" timestamp="1582933256564" />
+    <state x="114" y="132" key="new project wizard" timestamp="1583257828085">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="114" y="132" key="new project wizard/0.23.1440.823@0.23.1440.823" timestamp="1583257828085" />
+    <state x="427" y="49" key="refactoring.ChangeSignatureDialog" timestamp="1582933699343">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="427" y="49" key="refactoring.ChangeSignatureDialog/0.23.1440.825@0.23.1440.825" timestamp="1582933699343" />
+  </component>
+</project>
