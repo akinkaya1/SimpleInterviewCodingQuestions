@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eaec1e14-15e1-4f8d-ae92-7d44e609f50c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaPrograms.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PascalTriangle.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PascalTriangle">
+  <component name="RunManager" selected="Application.ReverseAllWordsInString">
     <configuration name="MaxMinValuesInIntegerArray_UsingLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MaxMinValuesInIntegerArray_UsingLoop" />
       <module name="JavaPrograms" />
@@ -62,15 +61,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome_String_UsingLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Palindrome_String_UsingLoop" />
+    <configuration name="PascalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PascalTriangle" />
       <module name="JavaPrograms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PascalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PascalTriangle" />
+    <configuration name="ReverseAllWordsInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseAllWordsInString" />
       <module name="JavaPrograms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseAllWordsInString" />
         <item itemvalue="Application.PascalTriangle" />
         <item itemvalue="Application.MaxMinValuesInIntegerArray_UsingLoop" />
         <item itemvalue="Application.MaxMinValuesInIntegerArray_UsingSort" />
         <item itemvalue="Application.SumOfAllNumbersInAString" />
-        <item itemvalue="Application.Palindrome_String_UsingLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -123,46 +122,67 @@
       <option name="project" value="LOCAL" />
       <updated>1583288862225</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Folder structure organized">
+      <created>1583289221261</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583289221261</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java Programs added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Programs added" />
+    <MESSAGE value="Folder structure organized" />
+    <option name="LAST_COMMIT_MESSAGE" value="Folder structure organized" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="353" y="38" key="CommitChangelistDialog2" timestamp="1583288861870">
+    <state x="353" y="38" key="CommitChangelistDialog2" timestamp="1583289221109">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state x="353" y="38" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1583288861870" />
-    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1583257831263">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state x="353" y="38" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1583289221109" />
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1583590359678">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1583257831263" />
-    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1583115260906" />
-    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1583257831263">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1583434584699" />
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1583381703902" />
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1583380096890" />
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1583590359678" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1583590359677">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1583257831263" />
-    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1583115260905" />
-    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1583257831262">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1583434584698" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1583381703901" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1583380096890" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1583590359677" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1583590359677">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1583257831262" />
-    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1583115260905" />
-    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1583257831263">
-      <screen x="0" y="23" width="1440" height="823" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1583434584697" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1583381703901" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1583380096889" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1583590359677" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1583590359678">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1583257831263" />
-    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1583115260906" />
-    <state x="320" y="176" key="Vcs.Push.Dialog.v2" timestamp="1583288864426">
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1583434584698" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1583381703902" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1583380096890" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1583590359678" />
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2" timestamp="1583289223508">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1583288864426" />
-    <state x="399" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1582933256564">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1583289223508" />
+    <state x="399" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1583379760190">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state x="399" y="268" key="com.intellij.ide.util.TipDialog/0.23.1440.825@0.23.1440.825" timestamp="1582933256564" />
+    <state x="399" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.828@0.23.1440.828" timestamp="1583379760190" />
     <state x="114" y="132" key="new project wizard" timestamp="1583257828085">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
