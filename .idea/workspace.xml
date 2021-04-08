@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eaec1e14-15e1-4f8d-ae92-7d44e609f50c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/codingBat/WarmUp1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ba29ea44-11cf-42a1-9dee-a184332d8100" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/codingBat/WarmUp2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +26,13 @@
       <set>
         <option value="$PROJECT_DIR$/.idea" />
       </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectId" id="1YSPvTTo7mmQ2O7JuzeZ4jN0TWl" />
@@ -110,7 +117,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="eaec1e14-15e1-4f8d-ae92-7d44e609f50c" name="Default Changelist" comment="" />
+      <changelist id="ba29ea44-11cf-42a1-9dee-a184332d8100" name="Default Changelist" comment="" />
       <created>1582933252974</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
