@@ -22,9 +22,6 @@ public class FibonacciSeries {
             zero = one;
             one = sum;
         }
-
-        System.out.println(fibonacciSeries.trim());
-
-        return fibonacciSeries.substring(0, fibonacciSeries.length()-2);
+        return fibonacciSeries.trim();
     }
 }
