@@ -17,11 +17,13 @@ public class FibonacciSeries {
         String fibonacciSeries = "";
 
         for(int i = 0; i < number; i++){
-            fibonacciSeries += zero + ", ";
+            fibonacciSeries += zero + " ";
             sum = zero + one;
             zero = one;
             one = sum;
         }
+
+        System.out.println(fibonacciSeries.trim());
 
         return fibonacciSeries.substring(0, fibonacciSeries.length()-2);
     }
